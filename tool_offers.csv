@@ -294,14 +294,14 @@ WoodPanel_Spender_6,Wood Panel,3,24,17,30,40,50,1200,true,true
 WoodPanel_Spender_7,Wood Panel,5,40,32,20,50,,1200,true,true
 WoodPanel_Spender_8,Wood Panel,5,40,28,30,50,,1200,true,true
 ,,,,,,,,,,
-Plank_NonBuyer_1,Plank,3,24,13,45,20,30,1200,false,true
-Plank_NonBuyer_2,Plank,4,32,21,35,20,30,1200,false,true
-Plank_NonBuyer_3,Plank,4,32,22,30,30,40,1200,false,true
-Plank_NonBuyer_4,Plank,5,40,22,45,30,40,1200,false,true
-Plank_NonBuyer_5,Plank,4,32,19,40,40,50,1200,false,true
-Plank_NonBuyer_6,Plank,3,24,16,35,40,50,1200,false,true
-Plank_NonBuyer_7,Plank,5,40,24,40,50,,1200,false,true
-Plank_NonBuyer_8,Plank,5,40,28,30,50,,1200,false,true
+Plank_NonBuyer_1,Plank,1000,24,100,45,20,30,1200,false,true
+Plank_NonBuyer_2,Plank,1000,32,100,35,20,30,1200,false,true
+Plank_NonBuyer_3,Plank,1000,32,100,30,30,40,1200,false,true
+Plank_NonBuyer_4,Plank,1000,40,100,45,30,40,1200,false,true
+Plank_NonBuyer_5,Plank,1000,32,100,40,40,50,1200,false,true
+Plank_NonBuyer_6,Plank,1000,24,100,35,40,50,1200,false,true
+Plank_NonBuyer_7,Plank,1000,40,100,40,50,,1200,false,true
+Plank_NonBuyer_8,Plank,1000,40,100,30,50,,1200,false,true
 ,,,,,,,,,,
 Nail_NonBuyer_1,Nail,3,24,17,30,20,30,1200,false,true
 Nail_NonBuyer_2,Nail,4,32,18,45,20,30,1200,false,true
